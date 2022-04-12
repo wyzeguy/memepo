@@ -2,4 +2,3 @@ baseURL = 'https://prismatic-starlight-b75cc2.netlify.app'
 languageCode = 'en-us'
 title = 'The memepo'
 theme = "bootstrap"
-Description = "A Repo For Memes"
