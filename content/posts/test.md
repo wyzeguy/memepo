@@ -1,7 +1,7 @@
 ---
 categories: [""]
 date: 2022-04-11T18:33:57-07:00
-draft: true
+draft: false
 title: "Test"
 url: ""
 ---
